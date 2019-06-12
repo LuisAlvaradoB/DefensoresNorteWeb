@@ -658,7 +658,7 @@ a:hover, a:active, a:focus {
 }
 .custom-navbar .navbar-brand .dark-logo{display:none;}
 .custom-navbar .nav li a {
-	font-size: 12px;
+	font-size: 11px;
 	font-weight: lighter;
 	color: #fff;
 	line-height: 40px;
