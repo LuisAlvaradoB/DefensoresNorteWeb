@@ -54,7 +54,7 @@
             <div class="post-header margin-top30">
               <h4>Causa rit 57-2017</h4>
             </div>
-            <p>espués de 8 meses de prisión preventiva, la Tercera Sala del Tribunal Oral en Lo Penal de La Serena acogió la tesis de Defensores Norte, absolviendo a 4 acusados por los delitos de tráfico ilícito de estupefacientes, tenencia ilegal de arma de fuego prohibida, tenencia ilegal de arma de fuego convencional y tenencia ilegal de municiones, hecho ocurrido en La Serena en junio de 2016. <br>
+            <p>Después de 8 meses de prisión preventiva, la Tercera Sala del Tribunal Oral en Lo Penal de La Serena acogió la tesis de Defensores Norte, absolviendo a 4 acusados por los delitos de tráfico ilícito de estupefacientes, tenencia ilegal de arma de fuego prohibida, tenencia ilegal de arma de fuego convencional y tenencia ilegal de municiones, hecho ocurrido en La Serena en junio de 2016. <br>
 
             <br>La defensa, a cargo de los abogados Carlo Silva Muñoz y Cecilia Álvarez Lisboa, pudo comprobar que los acusados fueron detenidos por funcionarios policiales al interior de una parcela del sector El Romeral en un procedimiento que estuvo viciado, señalando que –entre otras pruebas– la orden de entrada y registro que se obtuvo del Juez de Garantía fue en base a antecedentes que faltaban a la verdad. <br>
 
@@ -65,6 +65,7 @@
             <p> En esta causa específica, la resolución que dictó el juez para autorizar el ingreso a la propiedad se basó en motivaciones erróneas y falsas, estableciéndose una actuación judicial defectuosa. El artículo 159 del Código Procesal Penal establece que toda actuación judicial defectuosa, que acarrea un perjuicio al imputado y que proviene de la vulneración de ciertas garantías constitucionales –como la garantía del debido proceso articulo 19, número 3– debe ser declarada nula y se considera inexistente. <br>
 
             <br>Por tanto, la resolución que ordenó la entrada y registro del domicilio en la práctica nunca existió y, como tampoco hubo una autorización voluntaria del propietario del recinto, se considera que la policía entró ilegalmente a la propiedad, incautó ilegalmente las armas y de igual manera detuvo ilegalmente a los imputados. La norma 373 de Código Procesal Penal establece una regla que señala que nadie puede ser condenado bajo vulneración de sus derechos constitucionales porque se está frente a una sentencia nula. Bajo esta condición el tribunal en lo penal no pudo valorar la prueba, porque ésta desde el inicio contaminó uno tras otro los actos desencadenantes.</p>
+            <a href="Download/causa_rit_57-2017.pdf" download="Causa-rit-57">Descargar resolución completa</a>
           </div>
         </div>
       </div>

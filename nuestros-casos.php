@@ -57,10 +57,10 @@
       <!-- Service 2 -->
       <div class="col-md-6 col-sm-6">
         <div class="service-thumb">
-          <div class="thumb-img"><img src="images/casos/detenido1.jpg" class="animate" alt=""></div>
+          <div class="thumb-img"><img src="images/casos/jurisprudencia16(1).jpg" class="animate" alt=""></div>
           <h4>Acusada y detenida ilegalmente por microtráfico</h4>
           <p>Tribunal Oral en Lo Penal de La Serena acogió la tesis de Defensores Norte, absolviendo a 4 acusados por los delitos de tráfico ilícito de estupefacientes, tenencia ilegal de arma de fuego y municiones...</p>
-          <a href="#" class="btn">Leer más</a> 
+          <a href="causa-rit-17-2017.php" class="btn">Leer más</a> 
         </div>
       </div>
     </div>
@@ -71,7 +71,7 @@
           <div class="thumb-img"><img src="images/casos/casocarabineros21(1).jpg" class="animate" alt=""></div>
           <h4>Caso Carabineros:Tribunal absuelve a los cuatro acusados</h4> 
           <p>Tras semanas de litigio en el Caso carabineros, el Tribunal Oral en lo Penal de La Serena decidió absolver a los 4 imputados acusados por el delito de Robo con Homicidio; resolviendo que los delitos...</p>
-          <a href="#" class="btn">Leer más</a> 
+          <a href="causa-rit-232-2017.php" class="btn">Leer más</a> 
         </div>
       </div>
       
@@ -81,7 +81,7 @@
           <div class="thumb-img"><img src="images/casos/jurisprudencia08(1).jpg" class="animate" alt=""></div>
           <h4>Detenido ilegalmente por tráfico de estupefaciente</h4>
           <p>Tribunal de La Serena no pudo acreditar la responsabilidad penal de nuestro representado en tráfico ilícito de estupefaciente. Defensores Norte demostró que pruebas aportadas por la fiscalía eran insuficientes...</p>
-          <a href="#" class="btn">Leer más</a> 
+          <a href="causa-rit-371-2016.php" class="btn">Leer más</a> 
         </div>
       </div>
     </div>
@@ -92,7 +92,7 @@
           <div class="thumb-img"><img src="images/casos/detenido3(1).jpg" class="animate" alt=""></div>
           <h4>Jóvenes acusados erróneamente recuperan su libertad</h4>
           <p>Defensores Norte logró que dos jóvenes, incorrectamente acusados, recuperarán su libertad luego de 210 días en prisión condenados por el supuesto delito de “robo con violencia”...</p>
-          <a href="#" class="btn">Leer más</a> 
+          <a href="causa-rit-387-2015.php" class="btn">Leer más</a> 
         </div>
       </div>
       
@@ -102,7 +102,7 @@
           <div class="thumb-img"><img src="images/casos/parejadetenida(1).jpg" class="animate" alt=""></div>
           <h4>Pareja es detenida y acusada en procedimiento ilegal</h4>
           <p>Defensores Norte pudo acreditar la ilegalidad del procedimiento que afectó a una pareja de convivientes en Coquimbo imputados por delitos de tráfico ilícito de droga y tenencia ilegal de armas y de municiones...</p>
-          <a href="#" class="btn">Leer más</a> 
+          <a href="causa-rit-44-2017.php" class="btn">Leer más</a> 
         </div>
       </div>
     </div>
