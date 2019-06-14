@@ -33,10 +33,10 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 col-sm-6">
-          <h1 class="page-heading">NOTICIAS</h1>
+          <h1 class="page-heading">DELITOS CONTRA LA PROPIEDAD</h1>
         </div>
         <div class="col-md-6 col-sm-6">
-          <div class="breadCrumb"><a href="index.php">Home</a> / <span>Noticias</span></div>
+          <div class="breadCrumb"><a href="index.php">Home</a> / <a href="noticias.php">Noticias</a> / <span>Delitos contra la propiedad</span></div>
         </div>
       </div>
     </div>
@@ -64,7 +64,7 @@
                       <div class="postmeta">Por : <span>Cecilia Álvarez </span> Categoria : <a href="categorias-delitos-contra-la-propiedad.php">Delitos contra la propiedad</a></div>
                     </div>
                     <p>La autorización judicial para entrada y registro, solicitada con motivo de la detención de un sujeto con orden previa; se enmarca dentro de la primera hipótesis...</p>
-                    <a href="noticia-10-06-19.php" class="readmore">Leer más</a>
+                    <a href="noticia-10-06-19.php" class="Leer más">Leer más</a>
                   </div>
                 </div>
               </li>
@@ -137,7 +137,7 @@
                 <li><a href="#.">Ley de drogas</a></li>
                 <li><a href="#.">Ley de armas</a></li>
                 <li><a href="#.">Delitos sexuales</a></li>
-                <li><a href="categorias-delitos-contra-la-propiedad.php">Delitos contra la propiedad</a></li>
+                <li><a href="#.">Delitos contra la propiedad</a></li>
               </ul>
             </div>
             <!-- Recent Posts -->

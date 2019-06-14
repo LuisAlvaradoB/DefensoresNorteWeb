@@ -32,7 +32,7 @@
 <div class="tp-banner-container" id="slider">
   <div class="tp-banner" >
     <ul>
-      <li data-slotamount="7" data-transition="fade" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/slider/defensoresnorte200.jpg" data-lazyload="images/slider/defensoresnorte200.jpg">
+      <li data-slotamount="7" data-transition="fade" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/slider/defensoresnorte200.jpg" data-lazyload="images/slider/fondo-ConvertImage.jpg">
         <div id="text1" class="caption lfb large-title tp-resizeme slidertext2" data-x="center" data-y="280" data-speed="600"data-start="1000">La libertad es un derecho, defenderla nuestro compromiso</div>
         <div class="caption lfb large-title tp-resizeme slidertext1" data-x="center" data-y="310" data-speed="600"data-start="1600">Defensores Norte</div>
         <div class="caption lfb large-title tp-resizeme sliderbtn" data-x="center" data-y="400" data-speed="600"data-start="2200"><a href="contacto.php" class="section-btn">Contáctanos</a></div>

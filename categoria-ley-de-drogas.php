@@ -60,11 +60,11 @@
                   </div>
                   <div class="col-md-7">
                     <div class="post-header">
-                      <h4><a href="noticia-10-06-19.php">Libertad para la detenida por irregularidad en el procedimiento policial.</a></h4>
-                      <div class="postmeta">Por : <span>Cecilia Álvarez </span> Categoria : <a href="categorias-delitos-contra-la-propiedad.php">Delitos contra la propiedad</a></div>
+                      <h4><a href="#.">Libertad para la detenida por irregularidad en el procedimiento policial.</a></h4>
+                      <div class="postmeta">Por : <span>Carlo Silva </span> Categoria : <a href="#.">Delitos contra la propiedad</a></div>
                     </div>
                     <p>La autorización judicial para entrada y registro, solicitada con motivo de la detención de un sujeto con orden previa; se enmarca dentro de la primera hipótesis...</p>
-                    <a href="noticia-10-06-19.php" class="readmore">Leer más</a>
+                    <a href="#." class="readmore">Leer más</a>
                   </div>
                 </div>
               </li>
@@ -114,13 +114,13 @@
               <div class="col-md-8 col-sm-6 text-right">
                 <ul class="pagination">
                   <li class="active"><a href="#.">1</a></li>
-                  <!-- <li><a href="#.">2</a></li>
+                  <li><a href="#.">2</a></li>
                   <li><a href="#.">3</a></li>
                   <li><a href="#.">4</a></li>
                   <li><a href="#.">5</a></li>
                   <li><a href="#.">6</a></li>
                   <li><a href="#.">7</a></li>
-                  <li><a href="#.">8</a></li> -->
+                  <li><a href="#.">8</a></li>
                 </ul>
               </div>
             </div>
@@ -137,11 +137,31 @@
                 <li><a href="#.">Ley de drogas</a></li>
                 <li><a href="#.">Ley de armas</a></li>
                 <li><a href="#.">Delitos sexuales</a></li>
-                <li><a href="categorias-delitos-contra-la-propiedad.php">Delitos contra la propiedad</a></li>
+                <li><a href="#.">Delitos contra la propiedad</a></li>
               </ul>
             </div>
             <!-- Recent Posts -->
-            <?php require 'partials/recent-post-sidebar.php' ?>
+            <div class="widget">
+              <h5 class="widget-title">Recent Posts</h5>
+              <ul class="papu-post">
+                <li>
+                  <div class="media-left"> <a href="#."><img src="images/blog/1.jpg" alt="Blog Title"></a> </div>
+                  <div class="media-body"> <a class="media-heading" href="#">Integer vel magna urna. Vestibulum id nisi</a> <span>Dec 18, 2016</span> </div>
+                </li>
+                <li>
+                  <div class="media-left"> <a href="#."><img src="images/blog/2.jpg" alt="Blog Title"></a> </div>
+                  <div class="media-body"> <a class="media-heading" href="#">Integer vel magna urna. Vestibulum id nisi</a> <span>Dec 18, 2016</span> </div>
+                </li>
+                <li>
+                  <div class="media-left"> <a href="#."><img src="images/blog/3.jpg" alt="Blog Title"></a> </div>
+                  <div class="media-body"> <a class="media-heading" href="#">Integer vel magna urna. Vestibulum id nisi</a> <span>Dec 18, 2016</span> </div>
+                </li>
+                <li>
+                  <div class="media-left"> <a href="#."><img src="images/blog/4.jpg" alt="Blog Title"></a> </div>
+                  <div class="media-body"> <a class="media-heading" href="#">Integer vel magna urna. Vestibulum id nisi</a> <span>Dec 18, 2016</span> </div>
+                </li>
+              </ul>
+            </div>
             
           </div>
         </div>
